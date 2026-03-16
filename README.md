@@ -1,6 +1,15 @@
-# 🚀 Carmine Gualtieri
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Carmine%20Gualtieri&fontSize=70&subText=Computer%20Engineer%20%7C%20AI%20%26%20Software%20Innovator&subFontSize=25&animation=fadeIn" alt="Banner" />
+</p>
 
-[🇺🇸 English](#english-version) | [🇮🇹 Italiano](#versione-italiana)
+<p align="center">
+  <a href="#english-version"><strong>🇺🇸 English</strong></a> • 
+  <a href="#versione-italiana"><strong>🇮🇹 Italiano</strong></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gualt17/Gualt17/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
 
 ---
 
@@ -12,33 +21,56 @@ Hi, I’m **Carmine**, a **Computer Engineer** and **Software Developer** passio
 I enjoy tackling complex problems, experimenting with new technologies, and turning ambitious concepts into working solutions. My main focus is **Artificial Intelligence**, especially **LLM reasoning**, while confidently working in traditional full-stack environments.
 
 ### 🛠️ Core Skills
-
-* **Full Stack Development** – Server-side logic with **Java**, **Python**, **PHP**, and modern interfaces with **JavaScript**, **HTML**, **CSS**.  
-* **Data & Database Management** – Design and optimization of relational databases, ensuring efficiency and data integrity (**SQL**).  
-* **AI & Integration** – Experimenting with models on **Hugging Face** and developing solutions using advanced **Prompt Engineering**.  
-* **Analytical Problem Solving** – Critical debugging, logical optimization, and code management with **Git**.  
+* 💻 **Favorite language**: **Python**
+* 📊 **Data & Database Management:** Relational databases design and optimization (**SQL**).  
+* 🧠 **AI & Integration:** **Hugging Face** models and advanced **Prompt Engineering**.  
+* 🧩 **Analytical Problem Solving:** Debugging, logical optimization, and **Git**.  
 
 ### ⚡ Current Focus
+* 🔭 **Ongoing Projects:** Systems based on **LLMs** and optimization of complex data flows.  
+* 🌱 **Learning Now:** RAG, LangChain, Docker, Vector Databases.
 
-* **Ongoing Projects** – Systems based on **LLMs** and optimization of complex data flows.  
-* **Learning Now** – **RAG (Retrieval-Augmented Generation)**, **LangChain**, **Docker**, vector databases.  
+---
 
-### 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 📫 Contact
-
-* **LinkedIn**: [Carmine Gualtieri](https://linkedin.com/in/carmine-gualtieri-580562358)  
-* **Email**: [gualtieri.cb21@gmail.com](mailto:gualtieri.cb21@gmail.com)  
-* **Location**: Parma, Italy 🇮🇹  
+### 💻 Tech Stack & Tools
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="SQL" />
+      <br>SQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JS" />
+      <br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" />
+      <br>HTML5
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
+      <br>CSS3
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -50,30 +82,27 @@ Ciao, sono **Carmine**, un **Ingegnere Informatico** e **Software Developer** ap
 Mi piace affrontare problemi complessi, sperimentare nuove tecnologie e trasformare concetti ambiziosi in soluzioni funzionanti. Il mio focus principale è l’**Intelligenza Artificiale**, in particolare il **Reasoning dei LLM**, pur muovendomi con sicurezza anche in contesti full-stack tradizionali.
 
 ### 🛠️ Competenze principali
-
-* **Sviluppo Full Stack** – Logica server-side con **Java**, **Python**, **PHP** e interfacce moderne in **JavaScript**, **HTML**, **CSS**.  
-* **Gestione Dati & Database** – Progettazione e ottimizzazione di database relazionali, con attenzione all’efficienza e all’integrità dei dati (**SQL**).  
-* **AI & Integrazione** – Sperimentazione di modelli su **Hugging Face**, sviluppo di soluzioni tramite **Prompt Engineering**.  
-* **Problem Solving Analitico** – Debug critici, ottimizzazione logica e gestione del codice con **Git**.  
+* 💻 **Linguaggio preferito**: **Python**
+* 📊 **Gestione Dati & Database:** Progettazione e ottimizzazione di database relazionali (**SQL**).  
+* 🧠 **AI & Integrazione:** Modelli **Hugging Face** e **Prompt Engineering**.  
+* 🧩 **Problem Solving Analitico:** Debug critici, ottimizzazione logica e gestione del codice con **Git**.  
 
 ### ⚡ Focus Attuale
+* 🔭 **Progetti in corso:** Sistemi basati su **LLM** e flussi di dati complessi.  
+* 🌱 **Cosa sto imparando:** RAG, LangChain, Docker, Database vettoriali.
 
-* **Progetti in corso** – Sistemi basati su **LLM** e ottimizzazione di flussi di dati complessi.  
-* **Cosa sto imparando** – **RAG (Retrieval-Augmented Generation)**, **LangChain**, **Docker**, database vettoriali.  
+---
 
-### 💻 Stack Tecnologico
+### 📫 Let's Connect!
+<p align="center">
+  <a href="https://linkedin.com/in/carmine-gualtieri-580562358"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gualtieri.cb21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  📍 <strong>Parma, Emilia Romagna, Italy 🇮🇹</strong>
+</p>
 
-### 📫 Contatti
-
-* **LinkedIn**: [Carmine Gualtieri](https://linkedin.com/in/carmine-gualtieri-580562358)  
-* **Email**: [gualtieri.cb21@gmail.com](mailto:gualtieri.cb21@gmail.com)  
-* **Location**: Parma, Italia 🇮🇹
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=30&section=footer" alt="footer" />
+</p>
