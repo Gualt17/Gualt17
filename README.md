@@ -1,16 +1,47 @@
-## Hi there 👋
+# 🚀 Carmine Gualtieri
 
-<!--
-**Gualt17/Gualt17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ciao, sono **Carmine**, un **Ingegnere Informatico** e **Software Developer** appassionato di innovazione e tecnologia.  
+La mia forza è l’apprendimento rapido: assimilo nuovi strumenti, framework e linguaggi e li applico subito nei progetti reali.  
 
-Here are some ideas to get you started:
+Mi piace affrontare problemi complessi, sperimentare nuove tecnologie e trasformare concetti ambiziosi in soluzioni funzionanti. Il mio focus principale è l’**Intelligenza Artificiale**, in particolare il **Reasoning dei LLM**, pur muovendomi con sicurezza anche in contesti full-stack tradizionali.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Competenze principali
+
+* **Sviluppo Full Stack** – Logica server-side con **Java**, **Python**, **PHP** e interfacce moderne in **JavaScript**, **HTML**, **CSS**.  
+* **Gestione Dati & Database** – Progettazione e ottimizzazione di database relazionali, con attenzione all’efficienza e all’integrità dei dati (**SQL**).  
+* **AI & Integrazione** – Sperimentazione di modelli su **Hugging Face**, sviluppo di soluzioni tramite **Prompt Engineering**.  
+* **Problem Solving Analitico** – Debug critici, ottimizzazione logica e gestione del codice con **Git**.  
+
+---
+
+### ⚡ Focus Attuale
+
+* **Progetti in corso** – Sistemi basati su **LLM** e ottimizzazione di flussi di dati complessi.  
+* **Cosa sto imparando** – **RAG (Retrieval-Augmented Generation)**, **LangChain**, **Docker**, database vettoriali.  
+
+---
+
+### 💻 Stack Tecnologico
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📫 Contatti
+
+* **LinkedIn**: [Carmine Gualtieri](https://linkedin.com/in/carmine-gualtieri-580562358)  
+* **Email**: [gualtieri.cb21@gmail.com](mailto:gualtieri.cb21@gmail.com)  
+* **Location**: Parma, Italia 🇮🇹  
+
+---
+
+> Questo profilo mostra non solo le mie competenze tecniche, ma anche la mia **capacità di apprendere rapidamente** e affrontare qualsiasi stack grazie a un approccio logico e analitico al codice.
