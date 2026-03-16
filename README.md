@@ -1,11 +1,15 @@
 # 🚀 Carmine Gualtieri
 
+🇮🇹 [Italiano](README.md) | 🇺🇸 [English](README_en.md)
+
+---
+
+## Italiano
+
 Ciao, sono **Carmine**, un **Ingegnere Informatico** e **Software Developer** appassionato di innovazione e tecnologia.  
 La mia forza è l’apprendimento rapido: assimilo nuovi strumenti, framework e linguaggi e li applico subito nei progetti reali.  
 
 Mi piace affrontare problemi complessi, sperimentare nuove tecnologie e trasformare concetti ambiziosi in soluzioni funzionanti. Il mio focus principale è l’**Intelligenza Artificiale**, in particolare il **Reasoning dei LLM**, pur muovendomi con sicurezza anche in contesti full-stack tradizionali.
-
----
 
 ### 🛠️ Competenze principali
 
@@ -14,14 +18,10 @@ Mi piace affrontare problemi complessi, sperimentare nuove tecnologie e trasform
 * **AI & Integrazione** – Sperimentazione di modelli su **Hugging Face**, sviluppo di soluzioni tramite **Prompt Engineering**.  
 * **Problem Solving Analitico** – Debug critici, ottimizzazione logica e gestione del codice con **Git**.  
 
----
-
 ### ⚡ Focus Attuale
 
 * **Progetti in corso** – Sistemi basati su **LLM** e ottimizzazione di flussi di dati complessi.  
 * **Cosa sto imparando** – **RAG (Retrieval-Augmented Generation)**, **LangChain**, **Docker**, database vettoriali.  
-
----
 
 ### 💻 Stack Tecnologico
 
@@ -34,14 +34,10 @@ Mi piace affrontare problemi complessi, sperimentare nuove tecnologie e trasform
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
 ### 📫 Contatti
 
 * **LinkedIn**: [Carmine Gualtieri](https://linkedin.com/in/carmine-gualtieri-580562358)  
 * **Email**: [gualtieri.cb21@gmail.com](mailto:gualtieri.cb21@gmail.com)  
 * **Location**: Parma, Italia 🇮🇹  
-
----
 
 > Questo profilo mostra non solo le mie competenze tecniche, ma anche la mia **capacità di apprendere rapidamente** e affrontare qualsiasi stack grazie a un approccio logico e analitico al codice.
